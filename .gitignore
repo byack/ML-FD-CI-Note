@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 自定义所需要忽略的一些文件
+*.code-workspace
