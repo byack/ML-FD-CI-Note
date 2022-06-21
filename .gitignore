@@ -130,3 +130,4 @@ dmypy.json
 
 # 自定义所需要忽略的一些文件
 *.code-workspace
+test.py
